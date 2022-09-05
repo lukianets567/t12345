@@ -7,8 +7,8 @@ fun main(){
 
 fun fff(a: Int){
     when(a){
-        in 1..17 -> println("-")
-        in 18..100 -> println("+")
+        in 1..25 -> println("-")
+        in 26..300 -> println("+")
         else -> println("Некоректне значення")
     }
 

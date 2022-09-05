@@ -1,8 +1,8 @@
 fun main(){
-    var a = readln()
-    qwerty(a)
+    var j = readln()
+    qwerty(j)
 }
 
-fun qwerty(a: String){
+fun qwerty(j: String){
 
 }
